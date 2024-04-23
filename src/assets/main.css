@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  overflow: hidden;
+  min-height: 100svh;
+  width: 100%;
+}
+
+html {
+  overflow: auto !important;
+}
+
+.no-border > .v-input__control > .v-field > .v-field__outline {
+  --v-field-border-opacity: 0 !important;
+}
+
+.no-underline .v-select__selections {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.no-border .v-select .dropdown-toggle {
+  border: none;
+}
