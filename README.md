@@ -1,35 +1,45 @@
-# universidadeinovacao2
+# Desafio GrowDev
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicativo de gestar de alunos, feito com Vue 3 😎
 
-## Recommended IDE Setup
+## Recomendação!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Utilizar juntamente com o [BackEnd](https://github.com/LuanSVXM/UniversidadeInovacaoBackend)
 
-## Customize configuration
+## Instalação
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+### Rode comando de instalação
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+ou com yarn
+
+```sh
+yarn install
+```
+
+### Para rodar em desenvolvimento
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+ou com yarn
+
+```sh
+yarn dev
+```
+
+### Gerar uma versão em produção
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+ou com yarn
 
 ```sh
-npm run lint
+yarn build
 ```
