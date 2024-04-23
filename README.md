@@ -1,6 +1,6 @@
 # Desafio GrowDev
 
-Aplicativo de gestar de alunos, feito com Vue 3 😎
+Aplicativo de gestão de alunos, feito com Vue 3 😎
 
 👉 https://universidadeinovacao.onrender.com 👈 -> Produção
 
